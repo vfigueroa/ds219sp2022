@@ -12,7 +12,7 @@ Each week, when you arrive to class, do the following:
 ```shell
 # If working from a terminal
 git checkout -b attendance-feb-16
-<nano, gedit, vim> sally-omalley-feb-16.md
+<nano, gedit, vim> Feb-16/sally-omalley-feb-16.md
     # Add line to this file with "I used <editor> to create this file."
     # Add anything else you want (questions? comments? nothing?) 
 git add .
@@ -22,7 +22,7 @@ git push origin attendance-feb-16
 # If working from GitHub site, do the equivalent of the above
 ```
 
-#### Submit a Pull Request to the upstream repository attendance branch (not main!)
+#### Submit a Pull Request to the upstream repository main branch
 
 ```
 This you will most likely do from the GitHub site
@@ -36,5 +36,3 @@ git fetch --all
 git rebase upstream/main
 git push origin main
 ```
-
-### If working from GitHub UI, add the file and submit a Pull Request to the `attendance` branch (not main!).
