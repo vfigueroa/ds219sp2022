@@ -1,0 +1,1 @@
+If a swift contributor wants to Firefox they can contribute to Firefox for iOS and Firefox Focus for iOS. To get started working on Firefox you can visit their chatroom, go to the introduction room on Matrix, or email Mike Hoye at mhoye@mozilla.com.
